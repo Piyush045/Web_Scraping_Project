@@ -1,8 +1,8 @@
 # Web_Scraping_Project
 Overview
-The aim of this project is to create a web scraping tool that can convert any web page to a PDF document. The tool should extract the text content from the web page and structure it properly in the PDF document. The tool should also include the relevant images from the web page and discard the unnecessary links and other elements. The tool should allow the user to download the PDF document as a file.
-Methodology
-The project consists of the following steps:
+/The aim of this project is to create a web scraping tool that can convert any web page to a PDF document. The tool should extract the text content from the web page and structure it properly in the PDF document. The tool should also include the relevant images from the web page and discard the unnecessary links and other elements. The tool should allow the user to download the PDF document as a file.
+/Methodology
+/The project consists of the following steps:
 •	Step 1: Get the web page URL from the user input.
 •	Step 2: Use a web scraping library such as BeautifulSoup or Scrapy to parse the HTML content of the web page.
 •	Step 3: Use a text extraction library such as Newspaper or Boilerpipe to extract the main text content from the web page.
